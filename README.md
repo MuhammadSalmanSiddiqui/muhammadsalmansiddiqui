@@ -1,5 +1,5 @@
 
-## Hi I'm Khuzaima Yaseen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Muhammad Salman Siddiqui <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 A Full Stack <b>React, React Native and Nodejs Developer</b> and eagerly to learn new programming languages, libraries, frameworks, and concepts in order to create fast, optimised, and efficient websites and mobile applications.
 
@@ -27,13 +27,13 @@ I enjoy developing user-friendly online applications that encourage high traffic
 I long to collaborate with you and offer high-level, solid answers to your programming problems. Please get in touch with me so that we may talk more about how to fulfil your needs.
 ### Coding Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalmansiddiqui&hide=TeX&layout=compact)
 
 ### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=khuzi&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=muhammadsalmansiddiqui&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ### Visitors
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khuzi.khuzi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhammadsalmansiddiqui.muhammadsalmansiddiqui)
 
