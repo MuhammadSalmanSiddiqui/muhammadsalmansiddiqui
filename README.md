@@ -7,7 +7,7 @@ A Full Stack <b>React, React Native and Nodejs Developer</b> and eagerly to lear
 
 [![Freelancer Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01cabfa81f000d2817)](https://www.upwork.com/freelancers/~01cabfa81f000d2817) [![Linkedin Badge](https://img.shields.io/badge/-@salmansiddiqui-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-siddiqui-4417a11a1/) [![Mail Badge](https://img.shields.io/badge/-salmansidd991@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:salmansidd991@gmail.com)
 
-- 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a> and @ <a href='https://fiverr.com/'>Fiverr</a>
+- 🔭 I’m currently working as a Fulltime freelancer @ <a href='https://upwork.com/'>Upwork</a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding project ideas & contributions in JavaScript.
 - 📫 How to reach me: salmansidd991@gmail.com
